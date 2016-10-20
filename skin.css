@@ -28,3 +28,5 @@
 #playlist .even{background-color:#fffcd6;}
 #playlist .odd{ background-color:#fffcd6;}
 #playlist .focus{ background-color:#ffb1cc; color:#fffcd6;}
+
+#player, #playlist {width: 100px !important;}
